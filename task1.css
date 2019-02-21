@@ -1,0 +1,71 @@
+body {
+    background-image: url(Background.png);
+    background-color:#362673;
+    background-blend-mode: lighten;
+    font-family: "Arial Nova Light";
+    background-size: contain;
+}
+
+#logo {
+    height:auto;
+    width:15%;
+}
+
+#hamburger {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+h1 {
+    color: #28DDE0;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+
+th {
+    color: #28DDE0;
+    text-align: left;
+    font-size: 20px;
+    padding-left:50px;
+    padding-bottom: 15px;
+}
+
+td {
+    color: #FDE5B3;
+    padding-left: 50px;
+    padding-right: 100px;
+}
+
+
+#arrow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top:150px;
+}
+
+#git {
+    position: fixed;
+    bottom: 5px;
+    right: 50px;
+    mix-blend-mode: lighten;
+}
+
+#fb {
+    position: fixed;
+    bottom: 5px;
+    right: 100px;
+    mix-blend-mode: lighten;
+}
+
+#locator {
+    position: fixed;
+    bottom: 5px;
+    right: 10px;
+    mix-blend-mode: lighten;
+}
+
